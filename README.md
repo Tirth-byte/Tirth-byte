@@ -29,9 +29,7 @@ I've built across hackathons, solo products, and open source. National-level win
 If you want to see how I think and build, my repos are the best place to start.
 
 <br/>
-
 ---
-
 <br/>
 
 ### Fun Facts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/>
